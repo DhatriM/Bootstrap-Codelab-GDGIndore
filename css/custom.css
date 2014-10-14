@@ -15,8 +15,8 @@ html {
 
 .custom-img {
 
-	height: auto;
-	width: 200em;
+	height: 10em;
+	width: auto;
 	max-width: 100%;
 	display:block;
 }
